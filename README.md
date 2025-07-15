@@ -1,7 +1,7 @@
 <!-- VisionixAI README.md -->
 
 <p align="center">
-  <img src="https://your-cdn-link.com/visionixai-logo.svg" alt="VisionixAI logo" width="100" />
+  <img src="https://drive.google.com/file/d/1gw6XXS2GchSPZ-Kh8hp13rLWUR7p5Isu/view?usp=drivesdk" alt="VisionixAI logo" width="100" />
 </p>
 
 <h1 align="center">VisionixAI</h1>
