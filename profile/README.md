@@ -20,8 +20,8 @@ We divide any room into **grid-based zones**. When a zone is unoccupied for a fe
 All logic is controlled via a clean **CLI interface**, backed by AI vision models. Built for classrooms, offices, or any smart space.
 
 We are currently developing:
-- **CLI Tool** — stream video, detect zones, emit signals.
-- **Core CV Model** — YOLO/MediaPipe-based zone presence detector.
-- **API Layer** — for future integrations with apps, dashboards, and hardware.
+**CLI Tool** — stream video, detect zones, emit signals.
+**Core CV Model** — YOLO/MediaPipe-based zone presence detector.
+**API Layer** — for future integrations with apps, dashboards, and hardware.
 
 </div>
