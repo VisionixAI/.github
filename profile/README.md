@@ -1,7 +1,7 @@
 <!-- VisionixAI README.md -->
 
 <p align="center">
-  <img src="https://your-cdn-link.com/visionixai-logo.svg" alt="VisionixAI logo" width="100" />
+  <img src="https://i.ibb.co/nqCCWMCS/file-00000000334861f89487216d0ff1aecf-1.png" alt="VisionixAI logo" width="300">
 </p>
 
 <h1 align="center">VisionixAI</h1>
@@ -19,9 +19,9 @@ We divide any room into **grid-based zones**. When a zone is unoccupied for a fe
 
 All logic is controlled via a clean **CLI interface**, backed by AI vision models. Built for classrooms, offices, or any smart space.
 
-We are currently developing:
-**CLI Tool** — stream video, detect zones, emit signals.
-**Core CV Model** — YOLO/MediaPipe-based zone presence detector.
+We are currently developing:  
+**CLI Tool** — stream video, detect zones, emit signals.  
+**Core CV Model** — YOLO/MediaPipe-based zone presence detector.  
 **API Layer** — for future integrations with apps, dashboards, and hardware.
 
 </div>
