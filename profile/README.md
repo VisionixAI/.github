@@ -1,9 +1,8 @@
 <!-- VisionixAI README.md -->
 
 <p align="center">
-  <img src="https://i.ibb.co/nqCCWMCS/file-00000000334861f89487216d0ff1aecf-1.png" alt="VisionixAI logo" width="300">
+  <img src="https://i.ibb.co/C3Ndnmsz/visionixai.png" alt="VisionixAI logo" >
 </p>
-
 <h1 align="center">VisionixAI</h1>
 
 <p align="center">
